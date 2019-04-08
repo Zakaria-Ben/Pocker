@@ -1,12 +1,8 @@
 #!/usr/bin/python2.7
 
 import sys
-import subprocess
 import os
-import ctypes
 from unshare import unshare
-from unshare import setns
-from sh import mount
 
 def run():
     i = 2

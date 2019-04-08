@@ -5,7 +5,9 @@
 
 ## Highlights
 
-- Downloads ubuntu 16.04 using bootloader to create a container 
+- Downloads ubuntu 16.04 using debootstrap to create a container
+	- mkdir /ubuntu_xenial_1604
+	- debootstrap --arch=amd64 xenial /ubuntu_xenial_1604 http://archive.ubuntu.com/ubuntu/	 
 
 ## Example Usage
 
