@@ -1,4 +1,4 @@
-# Pocker <img src="img/logo.png" width="60"> 
+# Pocker <img src="img/logo_black.png" width="60"> 
 
 > Python-based containers engine 
 
